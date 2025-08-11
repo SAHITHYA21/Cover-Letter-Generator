@@ -45,7 +45,7 @@ The app allows users to input the URL of a job posting. It automatically scrapes
 4. **Generate Cover Letters**
 - Paste a job posting URL.
 - Wait for the app to scrape, process, and generate your custom cover letter.
-![Application](imgs/app.png)
+![Application](img/app.png)
 
  ---
 
