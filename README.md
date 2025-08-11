@@ -21,11 +21,6 @@ The app allows users to input the URL of a job posting. It automatically scrapes
 
 ---
 
-## 🏗 Architecture Diagram  
-![architecture](imgs/architecture.png)  
-
----
-
 ## ⚙️ Set-up  
 
 1. **Install Dependencies**  
